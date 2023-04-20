@@ -3222,3 +3222,7 @@ details-disclosure > details {
   color: #ffffff;
   font-size: 30px;
 }
+.quality-content {
+  display: flex;
+  gap: 50px;
+}
