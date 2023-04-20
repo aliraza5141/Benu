@@ -3313,3 +3313,14 @@ details-disclosure > details {
 .suitable-right {
   width: 40%;
 }
+.suitable-icons {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.suitable-icons .icons-up {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
