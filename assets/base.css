@@ -3205,16 +3205,17 @@ details-disclosure > details {
   color: white;
 }
 .featured-icons {
-  margin-top: 50px;
+  margin: 100px auto;
   background-color: #414141;
-  padding: 20px 10px;
-  border-radius: 30px;
+  padding: 30px 50px;
+  border-radius: 40px;
   display: flex;
-  /* justify-content: center; */
   align-items: center;
+  width: 80%;
 }
 .featured-icons .icon-box {
   display: flex;
+  margin: 0 30px;
 }
 .featured-icons .icon-box span {
   color: #ffffff;
