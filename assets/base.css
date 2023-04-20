@@ -3226,3 +3226,11 @@ details-disclosure > details {
   display: flex;
   gap: 50px;
 }
+.quality-left h1 {
+  font-size: 80px;
+  color: #414141; 
+}
+.quality-left p {
+  font-size: 30px;
+  color: #414141;
+}
