@@ -3210,6 +3210,13 @@ details-disclosure > details {
   padding: 20px 10px;
   border-radius: 30px;
   display: flex;
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
+}
+.featured-icons .icon-box {
+  display: flex;
+}
+.featured-icons .icon-box span {
+  color: #ffffff;
+  font-size: 30px;
 }
