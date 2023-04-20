@@ -3256,6 +3256,11 @@ details-disclosure > details {
   background: #414141;
   padding: 10px 35px;
   border-radius: 40px;
+  transition: .3s ease-in-out;
+}
+.quality-left .choose-btn a:hover {
+  background: #ffffff;
+  color: #414141;
 }
 .quality-right {
   width: 50%;
