@@ -3186,5 +3186,21 @@ details-disclosure > details {
   text-align: center;
     width: 65%;
     margin: 0 auto;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
+}
+.featured-content .content .shop-now {
+  text-align: center;
+}
+.featured-content .content .shop-now a {
+   background: white;
+    text-decoration: none;
+    font-size: 35px;
+    padding: 10px 60px;
+    border-radius: 50px;
+    color: black;
+    transition: 0.3s ease-in-out;
+}
+.featured-content .content .shop-now a:hover {
+  background: #414141;
+  color: white;
 }
