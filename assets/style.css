@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "AllRoundGothic-Bold";
+  src: url(//cdn.shopify.com/s/files/1/0745/8452/3042/t/3/assets/AllRoundGothic-Bold.woff2?v=79262354441772618851681904142) format("woff2");
+}
+@font-face {
+  font-family: "AllRoundGothic-Book";
+  src: url(//cdn.shopify.com/s/files/1/0745/8452/3042/t/3/assets/AllRoundGothic-Book.woff2?v=82465728216704250751681904159) format("woff2");
+}
+@font-face {
+  font-family: "AllRoundGothic-Demi";
+  src: url(//cdn.shopify.com/s/files/1/0745/8452/3042/t/3/assets/AllRoundGothic-Demi.woff2?v=95210169471156729431681904178) format("woff2");
+}
+@font-face {
+  font-family: "AllRoundGothic-Medium";
+  src: url(//cdn.shopify.com/s/files/1/0745/8452/3042/t/3/assets/AllRoundGothic-Medium.woff2?v=52496650537589756651681904201) format("woff2");
+}
+
+.list-menu__item {
+  color: #414141;
+}
