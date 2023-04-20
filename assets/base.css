@@ -3204,3 +3204,12 @@ details-disclosure > details {
   background: #414141;
   color: white;
 }
+.featured-icons {
+  margin-top: 50px;
+  background-color: #414141;
+  padding: 20px 10px;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
