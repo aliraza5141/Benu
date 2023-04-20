@@ -3164,3 +3164,17 @@ details-disclosure > details {
 .header__icons .divider {
   color: white;
 }
+.featured-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.featured-content .content h1 {
+  font-size: 150px;
+  color: #414141;
+  font-family: 'AllRoundGothic-Bold';
+} 
+.featured-content .content p {
+  font-size: 30px;
+  color: #414141;
+}
