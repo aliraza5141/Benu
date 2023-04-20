@@ -3215,7 +3215,8 @@ details-disclosure > details {
 }
 .featured-icons .icon-box {
   display: flex;
-  margin: 0 30px;
+  margin: 0 40px;
+  gap: 5px;
 }
 .featured-icons .icon-box span {
   color: #ffffff;
