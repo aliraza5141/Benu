@@ -3272,7 +3272,7 @@ details-disclosure > details {
 .suitable-section {
   background-color: #414141;
   border-radius: 30px;
-  padding: 40px;
+  padding: 40px 65px;
   display: flex;
   gap: 20px;
 }
@@ -3287,6 +3287,19 @@ details-disclosure > details {
 .suitable-left p {
   color: #ffffff;
   font-size: 30px;
+}
+.suitable-left .shop-btn a {
+  background: white;
+   text-decoration: none;
+   font-size: 35px;
+   padding: 10px 60px;
+   border-radius: 50px;
+   color: black;
+   transition: 0.3s ease-in-out;
+}
+.suitable-left .shop-btn a:hover {
+ background: #414141;
+ color: white;
 }
 .suitable-right {
   width: 40%;
