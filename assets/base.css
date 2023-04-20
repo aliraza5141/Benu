@@ -3168,13 +3168,22 @@ details-disclosure > details {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 40px 0;
 }
 .featured-content .content h1 {
   font-size: 150px;
   color: #414141;
   font-family: 'AllRoundGothic-Bold';
+  text-align: center;
+    margin: 0 auto;
+    line-height: 130px;
+    padding-bottom: 20px;
+    width: 80%;
 } 
 .featured-content .content p {
   font-size: 30px;
   color: #414141;
+  text-align: center;
+    width: 65%;
+    margin: 0 auto;
 }
