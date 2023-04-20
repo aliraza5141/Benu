@@ -93,6 +93,7 @@
     },
     "5623a6e1-96b1-41d7-bcb7-c5549af6a5d5": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18631292715298__5623a6e1-96b1-41d7-bcb7-c5549af6a5d5-1681976600fd7b9f42-0": {
           "type": "heading",
@@ -135,12 +136,28 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "5054fe4a-c1d4-41fd-9d89-afcf6c0f026f": {
+      "type": "quality-section",
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "9ec42891-922f-4c90-8fbb-07bed1814e59",
     "image_banner",
     "featured_collection",
-    "5623a6e1-96b1-41d7-bcb7-c5549af6a5d5"
+    "5623a6e1-96b1-41d7-bcb7-c5549af6a5d5",
+    "5054fe4a-c1d4-41fd-9d89-afcf6c0f026f"
   ]
 }
