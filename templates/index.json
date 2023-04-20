@@ -65,6 +65,7 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Featured products",
         "heading_size": "h2",
@@ -89,11 +90,57 @@
         "padding_top": 44,
         "padding_bottom": 36
       }
+    },
+    "5623a6e1-96b1-41d7-bcb7-c5549af6a5d5": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18631292715298__5623a6e1-96b1-41d7-bcb7-c5549af6a5d5-1681976600fd7b9f42-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Qualität ist Dir wichtig?",
+            "heading_size": "h0"
+          }
+        },
+        "template--18631292715298__5623a6e1-96b1-41d7-bcb7-c5549af6a5d5-1681976600fd7b9f42-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Uns auch! Für unser benu skin nutzen wir nur premium Materialien! Außerdem werden Sie in präziser Handarbeit in unserem Berliner Atelier hergestellt.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18631292715298__5623a6e1-96b1-41d7-bcb7-c5549af6a5d5-1681976600fd7b9f42-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Wähle dein Model",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18631292715298__5623a6e1-96b1-41d7-bcb7-c5549af6a5d5-1681976600fd7b9f42-0",
+        "template--18631292715298__5623a6e1-96b1-41d7-bcb7-c5549af6a5d5-1681976600fd7b9f42-1",
+        "template--18631292715298__5623a6e1-96b1-41d7-bcb7-c5549af6a5d5-1681976600fd7b9f42-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Path_16.png",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "9ec42891-922f-4c90-8fbb-07bed1814e59",
     "image_banner",
-    "featured_collection"
+    "featured_collection",
+    "5623a6e1-96b1-41d7-bcb7-c5549af6a5d5"
   ]
 }
