@@ -2884,6 +2884,7 @@ details-disclosure > details {
 /*   background: rgb(var(--color-background));
   background: var(--gradient-background); */
   background-attachment: fixed;
+  overflow: hidden;
 }
 
 @media screen and (forced-colors: active) {
@@ -3226,11 +3227,18 @@ details-disclosure > details {
   display: flex;
   gap: 50px;
 }
+.quality-left {
+  width: 50%;
+}
 .quality-left h1 {
   font-size: 80px;
-  color: #414141; 
+  color: #414141;
+  font-family: 'AllRoundGothic-Bold';
 }
 .quality-left p {
   font-size: 30px;
   color: #414141;
+}
+.quality-right {
+  width: 50%;
 }
