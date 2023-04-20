@@ -3188,10 +3188,10 @@ details-disclosure > details {
     margin: 0 auto;
     padding-bottom: 30px;
 }
-.featured-content .content .shop-now {
+.featured-content .content .shop-btn {
   text-align: center;
 }
-.featured-content .content .shop-now a {
+.featured-content .content .shop-btn a {
    background: white;
     text-decoration: none;
     font-size: 35px;
@@ -3200,7 +3200,7 @@ details-disclosure > details {
     color: black;
     transition: 0.3s ease-in-out;
 }
-.featured-content .content .shop-now a:hover {
+.featured-content .content .shop-btn a:hover {
   background: #414141;
   color: white;
 }
