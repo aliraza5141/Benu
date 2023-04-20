@@ -2884,7 +2884,7 @@ details-disclosure > details {
 /*   background: rgb(var(--color-background));
   background: var(--gradient-background); */
   background-attachment: fixed;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 @media screen and (forced-colors: active) {
@@ -3229,16 +3229,37 @@ details-disclosure > details {
 }
 .quality-left {
   width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 .quality-left h1 {
   font-size: 80px;
   color: #414141;
   font-family: 'AllRoundGothic-Bold';
+  margin: 0;
+  width: 65%;
+  line-height: 80px;
 }
 .quality-left p {
   font-size: 30px;
   color: #414141;
+  margin: 0;
+  line-height: 40px;
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+.quality-left .choose-btn a {
+  font-size: 30px;
+  text-decoration: none;
+  color: #ffffff;
+  background: #414141;
+  padding: 10px 35px;
+  border-radius: 40px;
 }
 .quality-right {
   width: 50%;
+}
+.quality-right img {
+  margin-left: 190px;
 }
