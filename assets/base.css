@@ -3283,10 +3283,19 @@ details-disclosure > details {
   color: #ffffff;
   font-size: 60px;
   font-family: 'AllRoundGothic-Bold';
+  margin: 0;
 }
 .suitable-left p {
   color: #ffffff;
   font-size: 30px;
+  margin: 0;
+  padding-bottom: 40px;
+  width: 70%;
+  line-height: 40px;
+  font-family: 'AllRoundGothic-Demi';
+}
+.suitable-left .shop-btn {
+  padding-bottom: 40px;
 }
 .suitable-left .shop-btn a {
   background: white;
