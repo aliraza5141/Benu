@@ -1,4 +1,19 @@
-
+@font-face {
+  font-family: "AllRoundGothic-Bold";
+  src: url(./AllRoundGothic-Bold.woff2);
+}
+@font-face {
+  font-family: "AllRoundGothic-Book";
+  src: url(./AllRoundGothic-Book.woff2);
+}
+@font-face {
+  font-family: "AllRoundGothic-Demi";
+  src: url(./AllRoundGothic-Demi.woff2);
+}
+@font-face {
+  font-family: "AllRoundGothic-Medium";
+  src: url(./AllRoundGothic-Medium.woff2);
+}
 /* Color custom properties */
 
 :root,
