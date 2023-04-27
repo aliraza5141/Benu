@@ -3290,6 +3290,7 @@ details-disclosure > details {
   padding: 40px 65px;
   display: flex;
   gap: 20px;
+  margin-top: 40px;
 }
 .suitable-left {
   width: 60%;
