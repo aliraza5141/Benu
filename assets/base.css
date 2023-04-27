@@ -3372,3 +3372,39 @@ details-disclosure > details {
   width: 55%;
   line-height: 35px;
 }
+.look-behind-content {
+  background-color: #414141;
+  border-radius: 30px;
+  padding: 30px;
+  display: flex;
+  gap: 20px;
+}
+.look-behind-content .look-behind-left {
+  width: 50%;
+}
+.look-behind-content .look-behind-right {
+  width: 50%;
+}
+.look-behind-content .look-behind-right h1 {
+  color: #ffffff;
+  font-size: 60px;
+  margin: 0;
+  font-family: 'AllRoundGothic-Bold';
+}
+.look-behind-content .look-behind-right p {
+  color: #ffffff;
+  font-size: 30px;
+}
+.look-behind-content .look-behind-right .behind-btn a {
+   background: white;
+   text-decoration: none;
+   font-size: 30px;
+   padding: 10px 60px;
+   border-radius: 50px;
+   color: black;
+   transition: 0.3s ease-in-out;
+}
+.look-behind-content .look-behind-right .behind-btn a:hover {
+  background: #414141;
+  color: #ffffff;
+}
