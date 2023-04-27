@@ -3,7 +3,9 @@
     <div class="content">
       <h1>Eine zweite Haut 
         für Dein Handy</h1>
-      <h1>{{ block.settings.heading }}</h1>
+      {% for block in section.blocks %}
+        <h1>{{ block.settings.heading }}</h1>
+      {% endfor %}
       <p>benu ist eine premium Lederfolie für Die Rückseite seines Smartphones! 
         Jedes Stück ist ein ein besonderes Unikat!</p>
       <div class="shop-btn">
