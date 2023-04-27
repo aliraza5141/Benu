@@ -196,6 +196,21 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "0545c9f8-5fcc-49c8-95bf-9861e9e822db": {
+      "type": "actually-use",
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -204,6 +219,7 @@
     "featured_collection",
     "5623a6e1-96b1-41d7-bcb7-c5549af6a5d5",
     "5054fe4a-c1d4-41fd-9d89-afcf6c0f026f",
-    "71ba5bfb-98b3-419c-a55c-b55f49019109"
+    "71ba5bfb-98b3-419c-a55c-b55f49019109",
+    "0545c9f8-5fcc-49c8-95bf-9861e9e822db"
   ]
 }
