@@ -3368,4 +3368,7 @@ details-disclosure > details {
   font-size: 30px;
   font-family: 'AllRoundGothic-Book';
   padding-bottom: 40px;
+  text-align: center;
+  width: 55%;
+  line-height: 35px;
 }
