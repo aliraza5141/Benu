@@ -3416,3 +3416,34 @@ details-disclosure > details {
   background: #414141;
   color: #ffffff;
 }
+
+.team-content {
+  background-color: #414141;
+  border-radius: 30px;
+  padding: 30px;
+  display: flex;
+  gap: 60px;
+}
+.team-content .team-left {
+  width: 50%;
+}
+.team-content .team-left h1 {
+  color: #ffffff;
+  font-size: 60px;
+  margin: 0;
+  width: 55%;
+  line-height: 50px;
+  font-family: 'AllRoundGothic-Bold';
+}
+.team-content .team-left p {
+  color: #ffffff;
+  font-size: 30px;
+  width: 70%;
+  line-height: 40px;
+}
+.team-content .team-right {
+  width: 50%;
+}
+.team-content .team-right img {
+  width: 100%;
+}
