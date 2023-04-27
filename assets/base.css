@@ -3350,3 +3350,9 @@ details-disclosure > details {
   text-align: center;
   width: 55%;
 }
+.actually-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
