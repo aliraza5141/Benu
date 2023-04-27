@@ -3327,6 +3327,7 @@ details-disclosure > details {
 }
 .suitable-right {
   width: 40%;
+  padding-top: 30px;
 }
 .suitable-icons {
   display: flex;
@@ -3338,4 +3339,14 @@ details-disclosure > details {
   justify-content: center;
   align-items: center;
   gap: 15px;
+}
+.icon-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.icon-div p {
+  color: #ffffff;
+  text-align: center;
+  width: 55%;
 }
