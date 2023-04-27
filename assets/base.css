@@ -3355,4 +3355,17 @@ details-disclosure > details {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding: 140px 0;
+}
+.actually-content h1 {
+  font-size: 80px;
+  margin: 0;
+  color: #414141;
+  font-family: 'AllRoundGothic-Bold';
+}
+.actually-content p {
+  color: #414141;
+  font-size: 30px;
+  font-family: 'AllRoundGothic-Book';
+  padding-bottom: 40px;
 }
