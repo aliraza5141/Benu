@@ -3382,6 +3382,9 @@ details-disclosure > details {
 .look-behind-content .look-behind-left {
   width: 50%;
 }
+.look-behind-content .look-behind-left img {
+  width: 100%;
+}
 .look-behind-content .look-behind-right {
   width: 50%;
 }
