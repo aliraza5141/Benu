@@ -3423,22 +3423,28 @@ details-disclosure > details {
   padding: 30px;
   display: flex;
   gap: 60px;
+  margin: 160px 0;
 }
 .team-content .team-left {
   width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 .team-content .team-left h1 {
   color: #ffffff;
   font-size: 60px;
   margin: 0;
-  width: 55%;
+  width: 70%;
+  margin-left: -30px;
   line-height: 50px;
   font-family: 'AllRoundGothic-Bold';
 }
 .team-content .team-left p {
   color: #ffffff;
   font-size: 30px;
-  width: 70%;
+  width: 75%;
   line-height: 40px;
 }
 .team-content .team-right {
