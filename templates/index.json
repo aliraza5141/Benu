@@ -2,6 +2,38 @@
   "sections": {
     "9ec42891-922f-4c90-8fbb-07bed1814e59": {
       "type": "featured-section",
+      "blocks": {
+        "6d486312-ed1a-461e-9f9d-03e670b81313": {
+          "type": "heading",
+          "settings": {
+            "heading": "Eine zweite Haut für Dein Handy",
+            "heading_size": "h1"
+          }
+        },
+        "5e581afe-6fbb-46fd-8e60-9f741946e03f": {
+          "type": "text",
+          "settings": {
+            "text": "benu ist eine premium Lederfolie für Die Rückseite seines Smartphones! Jedes Stück ist ein ein besonderes Unikat!",
+            "text_style": "body"
+          }
+        },
+        "47049021-e1bc-45af-b864-ebc8e4b62a60": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "JETZT SHOPPEN",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "6d486312-ed1a-461e-9f9d-03e670b81313",
+        "5e581afe-6fbb-46fd-8e60-9f741946e03f",
+        "47049021-e1bc-45af-b864-ebc8e4b62a60"
+      ],
       "settings": {
         "image_overlay_opacity": 0,
         "image_height": "medium",
