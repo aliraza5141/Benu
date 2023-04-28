@@ -3561,3 +3561,38 @@ details-disclosure > details {
   width: 100%;
 }
 }
+@media screen and (max-width: 912px){
+  .featured-content .content h1 {
+    width: 90%;
+}
+.featured-content .content p {
+  width: 95%;
+}
+.quality-left h1 {
+  width: 100%;
+}
+.suitable-left p {
+  width: 100%;
+}
+.icon-div p {
+  width: 100%;
+}
+.actually-content h1 {
+  font-size: 70px;
+}
+.actually-content p {
+  width: 100%;
+}
+.look-behind-content .look-behind-right h1 {
+  font-size: 50px;
+}
+.look-behind-content .look-behind-right .behind-btn a {
+  font-size: 25px;
+}
+.look-behind-content .look-behind-right p {
+  font-size: 25px;
+}
+.team-content .team-left p {
+  font-size: 25px;
+}
+}
