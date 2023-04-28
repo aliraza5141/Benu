@@ -3281,7 +3281,7 @@ details-disclosure > details {
   width: 50%;
 }
 .quality-right img {
-  margin-left: 190px;
+  margin-left: 120px;
 }
 
 .suitable-section {
@@ -3453,4 +3453,28 @@ details-disclosure > details {
 }
 .team-content .team-right img {
   width: 100%;
+}
+
+@media screen and (max-width: 1680px){
+  .quality-right img {
+    margin-left: 0px;
+}
+}
+@media screen and (max-width: 1440px){
+  .featured-content .content h1 {
+    font-size: 140px;
+ }
+ .featured-image img {
+  width: 100%;
+ }
+ .featured-icons .icon-box span {
+  font-size: 20px;
+}
+.quality-left h1 {
+  font-size: 75px;
+}
+.quality-right img {
+  margin-left: 150px;
+  width: 100%;
+}
 }
