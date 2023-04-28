@@ -1266,6 +1266,7 @@
             }
           }
         },
+        "image": {
         "name": "Image",
         "settings": {
           "image_label_1": {
