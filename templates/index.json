@@ -171,17 +171,51 @@
     },
     "5054fe4a-c1d4-41fd-9d89-afcf6c0f026f": {
       "type": "quality-section",
+      "blocks": {
+        "3919097a-9927-4e05-b28c-fd7959e2221e": {
+          "type": "heading",
+          "settings": {
+            "heading": "Qualität ist Dir wichtig?",
+            "heading_size": "h1"
+          }
+        },
+        "847dc121-6248-4dd7-a7bb-0c2a1238966c": {
+          "type": "text",
+          "settings": {
+            "text": "Uns auch! Für unser benu skin nutzen wir nur premium Materialien! Außerdem werden Sie in präziser Handarbeit in unserem Berliner Atelier hergestellt.",
+            "text_style": "body"
+          }
+        },
+        "5805f70a-7635-4a81-8278-886f29248e8b": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Wähle dein Model",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "e873e8e8-ca88-4b8b-8f90-dda1b6d790b8": {
+          "type": "image",
+          "settings": {
+            "image_left": "shopify:\/\/shop_images\/Path_16.png"
+          }
+        }
+      },
+      "block_order": [
+        "3919097a-9927-4e05-b28c-fd7959e2221e",
+        "847dc121-6248-4dd7-a7bb-0c2a1238966c",
+        "5805f70a-7635-4a81-8278-886f29248e8b",
+        "e873e8e8-ca88-4b8b-8f90-dda1b6d790b8"
+      ],
       "settings": {
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "desktop_content_alignment": "center"
       }
     },
     "71ba5bfb-98b3-419c-a55c-b55f49019109": {
