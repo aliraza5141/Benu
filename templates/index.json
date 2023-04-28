@@ -220,6 +220,38 @@
     },
     "71ba5bfb-98b3-419c-a55c-b55f49019109": {
       "type": "suitable-section",
+      "blocks": {
+        "19144fd2-5ddf-4abd-8310-c7fa01a7a660": {
+          "type": "heading",
+          "settings": {
+            "heading": "Geeignet für…",
+            "heading_size": "h1"
+          }
+        },
+        "08bc1bf3-7613-4b52-b2a0-3f96f6678c2d": {
+          "type": "text",
+          "settings": {
+            "text": "Menschen, die auf Nervenkitzel stehen! Also ohne klobige Handyhüllen unterwegs sind, aber Ihrem Handy dennoch etwas Charakter verleihen wollen.",
+            "text_style": "body"
+          }
+        },
+        "46225a88-b8f3-42bc-8ad3-0d348bdce81d": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Let,s go",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "19144fd2-5ddf-4abd-8310-c7fa01a7a660",
+        "08bc1bf3-7613-4b52-b2a0-3f96f6678c2d",
+        "46225a88-b8f3-42bc-8ad3-0d348bdce81d"
+      ],
       "settings": {
         "image_overlay_opacity": 0,
         "image_height": "medium",
@@ -233,6 +265,26 @@
     },
     "0545c9f8-5fcc-49c8-95bf-9861e9e822db": {
       "type": "actually-use",
+      "blocks": {
+        "f55c5e25-44d3-4144-9c25-c8cde5d0b230": {
+          "type": "heading",
+          "settings": {
+            "heading": "Was it’s benu eigentlich?",
+            "heading_size": "h1"
+          }
+        },
+        "beacb1f5-b708-459f-96cf-991c162813b4": {
+          "type": "text",
+          "settings": {
+            "text": "Eine zweite Haut für Dein Smartphone, das ihm  mehr Charakter und Grip verleiht. Etwas für die richtig mutigen unter euch!",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "f55c5e25-44d3-4144-9c25-c8cde5d0b230",
+        "beacb1f5-b708-459f-96cf-991c162813b4"
+      ],
       "settings": {
         "image_overlay_opacity": 0,
         "image_height": "medium",
@@ -248,6 +300,38 @@
     },
     "71dbe5b3-1d06-4d8e-bfdf-a901fbd123ba": {
       "type": "look-behind",
+      "blocks": {
+        "525770ab-58b5-403d-a1c8-bb547cb7d9fb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Blick hinter die Kulissen",
+            "heading_size": "h1"
+          }
+        },
+        "38b0164b-cb2c-4f7e-9857-adc9b2ae2ea8": {
+          "type": "text",
+          "settings": {
+            "text": "Uns auch! Neben unseren All time favourites finest du auch streng limitierte Editionen! Also solltest es mal kein Glück bei der Auslosung",
+            "text_style": "body"
+          }
+        },
+        "0d0ed1d6-7b4c-46b8-b631-98897d2bc02a": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Wähle dein Model",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "525770ab-58b5-403d-a1c8-bb547cb7d9fb",
+        "38b0164b-cb2c-4f7e-9857-adc9b2ae2ea8",
+        "0d0ed1d6-7b4c-46b8-b631-98897d2bc02a"
+      ],
       "settings": {
         "image_overlay_opacity": 0,
         "image_height": "medium",
@@ -263,6 +347,26 @@
     },
     "fa41e3a1-95fd-4507-b9bb-82e881b30ce7": {
       "type": "team",
+      "blocks": {
+        "6b717de1-46fc-4717-bbf7-146dad8f9cbb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unser Team… ehhh ich meine aktuell nur mich",
+            "heading_size": "h1"
+          }
+        },
+        "5b8cbcf7-01b6-44cd-ad1c-4f35c1b00bae": {
+          "type": "text",
+          "settings": {
+            "text": "Uns auch! Neben unseren All time favourites finest du auch streng limitierte Editionen! Also solltest es mal",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "6b717de1-46fc-4717-bbf7-146dad8f9cbb",
+        "5b8cbcf7-01b6-44cd-ad1c-4f35c1b00bae"
+      ],
       "settings": {
         "image_overlay_opacity": 0,
         "image_height": "medium",
