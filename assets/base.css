@@ -3447,6 +3447,7 @@ details-disclosure > details {
   font-size: 30px;
   width: 75%;
   line-height: 40px;
+  margin: 10px 0;
 }
 .team-content .team-right {
   width: 50%;
