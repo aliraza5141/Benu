@@ -3616,7 +3616,25 @@ details-disclosure > details {
 .look-behind-right p, .team-content .team-left p {
   font-size: 22px;
 }
+.look-behind-content .look-behind-right .behind-btn a {
+  font-size: 22px;
+}
 .team-content .team-left h1 {
   font-size: 40px;
+}
+}
+@media screen and (max-width: 768px){
+  .actually-content h1 {
+    font-size: 60px;
+}
+.look-behind-right p, .team-content .team-left p {
+  font-size: 22px;
+  line-height: 30px;
+}
+.look-behind-content .look-behind-right .behind-btn a { 
+  padding: 10px 45px;
+}
+.team-content .team-left h1 {
+  line-height: 40px;
 }
 }
