@@ -1,14 +1,14 @@
 <div class="page-width">
   <div class="quality-content">
-    {% for block in section.blocks %}
     <div class="quality-left">
+      {% for block in section.blocks %}
       <h1>{{ block.settings.heading }}</h1>
       <p>{{ block.settings.text }}</p>
       <div class="choose-btn">
         <a href="">{{ block.settings.button_label_1 }}</a>
       </div>
-      </div>
     {% endfor %}
+      </div>
     <div class="quality-right">
       <img src="{{ 'quality.png' | asset_url }}" alt="">
     </div>
