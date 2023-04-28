@@ -3624,6 +3624,25 @@ details-disclosure > details {
 }
 }
 @media screen and (max-width: 768px){
+  .quality-right img {
+    margin-left: 95px;
+}
+.quality-left p {
+  font-size: 22px;
+  line-height: 30px;
+}
+.quality-left .choose-btn a {
+  font-size: 25px;
+}
+.suitable-section {
+  padding: 40px 50px;
+}
+.suitable-left h1 {
+  font-size: 45px;
+}
+.look-behind-content .look-behind-right {
+  padding-top: 0px;
+}
   .actually-content h1 {
     font-size: 60px;
 }
