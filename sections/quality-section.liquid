@@ -7,11 +7,12 @@
       <div class="choose-btn">
         <a href="">{{ block.settings.button_label_1 }}</a>
       </div>
-    </div>
-    <div class="quality-right">
-      <img src="{{ block.settings.image_left }}" alt="">
-    </div>
+      </div>
     {% endfor %}
+    <div class="quality-right">
+      <img src="{{ 'quality.png' | asset_url }}" alt="">
+    </div>
+    
   </div>
 </div>
 
