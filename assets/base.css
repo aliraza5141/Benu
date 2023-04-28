@@ -3669,6 +3669,29 @@ details-disclosure > details {
 }
 }
 @media screen and (max-width: 540px){
+  .content {
+    max-width: 510px;
+  }
+  .featured-content .content h1 {
+    font-size: 60px;
+    line-height: 60px;
+}
+.featured-content .content p {
+  font-size: 25px;
+  line-height: 30px;
+}
+.featured-content .content .shop-btn a {
+  font-size: 22px;
+}
+.featured-image {
+  margin-top: 30px;
+}
+.featured-icons {
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 25px;
+}
   .quality-content {
     flex-direction: column;
 }
