@@ -3668,3 +3668,56 @@ details-disclosure > details {
   line-height: 40px;
 }
 }
+@media screen and (max-width: 540px){
+  .quality-content {
+    flex-direction: column;
+}
+.quality-left {
+  width: 100%;
+}
+.quality-right {
+  width: 100%;
+}
+.quality-right img {
+  margin-left: 115px;
+}
+.suitable-section {
+  padding: 40px 40px;
+  flex-direction: column;
+}
+.suitable-left {
+  width: 100%;
+}
+.suitable-left .shop-btn a {
+  font-size: 25px;
+}
+.suitable-right {
+  width: 100%;
+}
+.actually-content h1 {
+  text-align: center;
+  font-size: 45px;
+}
+.actually-content p {
+  font-size: 23px;
+}
+.look-behind-content {
+  flex-direction: column;
+}
+.look-behind-content .look-behind-left {
+  width: 100%;
+}
+.look-behind-content .look-behind-right {
+  width: 100%;
+}
+.team-content {
+  flex-direction: column;
+}
+.team-content .team-left {
+  width: 100%;
+  display: block;
+}
+.team-content .team-right {
+  width: 100%;
+}
+}
