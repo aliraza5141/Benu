@@ -3650,6 +3650,13 @@ details-disclosure > details {
   font-size: 22px;
   line-height: 30px;
 }
+.look-behind-content .look-behind-right h1 {
+  font-size: 35px;
+  line-height: 40px;
+}
+.team-content .team-left h1 {
+  font-size: 35px;
+}
 .team-content .team-left p {
   font-size: 22px;
   line-height: 30px;
