@@ -1,9 +1,9 @@
 <div class="page-width">
   <div class="actually-content">
-    <h1>Was it’s benu eigentlich?
-    </h1>
-    <p>Eine zweite Haut für Dein Smartphone, das ihm  mehr Charakter und Grip verleiht. Etwas für die richtig mutigen unter euch!
-    </p>
+    {% for block in section.blocks %}
+    <h1>{{ block.settings.heading }}</h1>
+    <p>{{ block.settings.text }}</p>
+    {% endfor %}
     <div class="actually-image">
       <img src="{{ 'actually.png' | asset_url }}" alt="">
     </div>

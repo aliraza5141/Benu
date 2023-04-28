@@ -1,9 +1,11 @@
 <div class="page-width">
   <div class="team-content">
     <div class="team-left">
-      <h1>Unser Team… ehhh ich meine aktuell nur mich</h1>
-      <p>Uns auch! Neben unseren All time favourites finest du auch streng limitierte Editionen! Also solltest es mal
+    {% for block in section.blocks %}
+      <h1>{{ block.settings.heading }}</h1>
+      <p>{{ block.settings.text }}
       </p>
+    {% endfor %}
     </div>
     <div class="team-right">
       <img src="{{ 'erdem.png' | asset_url }}" alt="">
