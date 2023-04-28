@@ -3627,7 +3627,11 @@ details-disclosure > details {
   .actually-content h1 {
     font-size: 60px;
 }
-.look-behind-right p, .team-content .team-left p {
+.look-behind-content .look-behind-right p{
+  font-size: 22px;
+  line-height: 30px;
+}
+.team-content .team-left p {
   font-size: 22px;
   line-height: 30px;
 }
