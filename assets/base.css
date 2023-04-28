@@ -3467,14 +3467,97 @@ details-disclosure > details {
  .featured-image img {
   width: 100%;
  }
- .featured-icons .icon-box span {
+ .featured-icons {
+  padding: 30px 20px;
+  width: 100%;
+}
+.featured-icons .icon-box span {
   font-size: 20px;
+  line-height: 25px;
 }
 .quality-left h1 {
   font-size: 75px;
 }
 .quality-right img {
   margin-left: 150px;
+  width: 100%;
+}
+}
+@media screen and (max-width: 1366px){
+  .featured-content .content h1 {
+    font-size: 120px;
+}
+.quality-right img {
+  margin-left: 145px;
+}
+.team-content .team-left h1 {
+  font-size: 58px;
+}
+.team-content .team-left p {
+  margin: 10px 0;
+}
+}
+@media screen and (max-width: 1280px){
+  .quality-left h1 {
+    font-size: 65px;
+}
+.look-behind-content .look-behind-right h1 {
+  width: 60%;
+}
+.look-behind-content .look-behind-right p {
+  width: 75%;
+}
+.team-content .team-left h1 {
+  width: 76%;
+  margin: 0 0 0 0px;
+}
+}
+@media screen and (max-width: 1024px){
+  .featured-content .content h1 {
+    font-size: 90px;
+    line-height: 80px;
+}
+.featured-content .content .shop-btn a {
+  font-size: 30px;
+}
+.quality-left h1 {
+  font-size: 50px;
+  line-height: 50px;
+}
+.quality-left p {
+  font-size: 24px;
+}
+.quality-right img {
+  margin-left: 120px;
+}
+.suitable-left p {
+  width: 80%;
+  padding-bottom: 20px;
+}
+.icon-div p {
+  width: 70%;
+}
+.actually-content p {
+  width: 95%;
+}
+.actually-image img {
+  width: 100%;
+}
+.look-behind-content .look-behind-right {
+  padding-top: 20px;
+}
+.look-behind-content .look-behind-right h1 {
+  width: 95%;
+}
+.look-behind-content .look-behind-right p {
+  width: 100%;
+}
+.team-content .team-left h1 {
+  font-size: 50px;
+  width: 100%;
+}
+.team-content .team-left p {
+  font-size: 28px;
   width: 100%;
 }
 }
