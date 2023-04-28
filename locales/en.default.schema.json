@@ -1265,6 +1265,13 @@
               "label": "Use outline button style"
             }
           }
+        },
+        "name": "Image",
+        "settings": {
+          "image_label_1": {
+            "label": "First image label",
+            "info": "Leave the label blank to hide the image."
+          }
         }
       },
       "presets": {
