@@ -1274,6 +1274,7 @@
             "info": "Leave the label blank to hide the image."
           }
         }
+      }
       },
       "presets": {
         "name": "Image banner"
