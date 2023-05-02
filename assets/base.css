@@ -312,8 +312,6 @@ html.no-js .no-js-hidden {
     max-width: var(--page-width);
     padding: 0 5rem;
   }
-  .header__heading-logo {width: 40% !important;}
-  .header {padding-top: 0rem !important;padding-bottom: 0rem !important;}
 }
 
 .isolate {
